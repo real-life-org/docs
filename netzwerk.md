@@ -24,9 +24,9 @@ Was uns verbindet: Die Überzeugung, dass positive Veränderung dort beginnt, wo
 
 ### Begegnen
 
-Wir treffen uns regelmäßig in lokalen Gruppen — wir nennen sie **Circles**. Kein Programm, kein Vortrag, keine Agenda die wichtiger ist als die Menschen im Raum. Einfach echte Begegnung. Daraus entstehen Freundschaften, Projekte und gegenseitige Unterstützung.
+Wir treffen uns regelmäßig in lokalen Gruppen — wir nennen sie **Circles** oder **Kreise**. Kein Programm, kein Vortrag, keine Agenda die wichtiger ist als die Menschen im Raum. Einfach echte Begegnung. Daraus entstehen Freundschaften, Projekte und gegenseitige Unterstützung.
 
-Einen Circle kann jeder starten. Es braucht nur ein paar Menschen und einen regelmäßigen Rhythmus.
+Einen Circle kann jeder starten. Es braucht nur ein paar Menschen und einen regelmäßigen Rhythmus. Auf Festivals und Veranstaltungen betreiben wir Vernetzungszelte — Orte, an denen neue Begegnungen entstehen und Samen für lokale Circles gesät werden.
 
 ### Vernetzen
 
@@ -34,15 +34,15 @@ Es gibt bereits tausende Initiativen, die an einer besseren Zukunft arbeiten —
 
 Wir verbinden, was schon da ist. Bestehende Initiativen behalten ihre Identität und Autonomie — aber sie werden füreinander sichtbar. Weil ein Netzwerk nicht durch seine Größe stark wird, sondern durch die Dichte seiner Verbindungen. Jede Initiative, die andockt, bringt nicht nur sich selbst mit — sondern ihr ganzes Netzwerk.
 
+### Beitragen
+
+Jeder bringt ein, was er kann und will — freiwillig, ohne Verpflichtung. Das kann Geld sein, aber genauso gut ein Werkzeug, ein Raum, eine Fähigkeit oder Zeit. Alles ist gleichwertig. Niemand muss etwas geben, um dazuzugehören. Aber wer gibt, stärkt das Ganze.
+
 ### Teilen
 
-Was wir gemeinsam anschaffen, gehört allen — Werkzeuge, Festival-Equipment, Küchenausstattung. Einzelne verwalten es, die Gemeinschaft kann es nutzen. Und jeder ist eingeladen, auch persönliche Ressourcen zu teilen: Räume, Fahrzeuge, Fähigkeiten, Wissen.
+Was eingebracht wird, steht der Gemeinschaft zur Verfügung. Einzelne verwalten es, alle können es nutzen. Ein Zelt, das jemand mitbringt, wird zum Festival-Zelt für alle. Eine Küche wird zur Gemeinschaftsküche. Eine Fähigkeit wird zum Workshop.
 
-Das Netzwerk hat einen gemeinsamen Topf. Wer etwas geben kann, gibt — Geld, Gegenstände, Fähigkeiten, Zeit. Alles ist gleichwertig. Was im Topf ist, wird transparent gemacht. So wächst mit der Zeit ein gemeinsamer Pool an Ressourcen, der allen zur Verfügung steht.
-
-### Zusammenkommen
-
-Auf Festivals und Veranstaltungen betreiben wir Vernetzungszelte — Orte, an denen sich Menschen wirklich kennenlernen. Kein Messestand, sondern Begegnung: Gespräche, gemeinsames Kochen, eine Karte mit der Frage "Wo kommst du her? Was machst du?" Wer eine gute Erfahrung macht, nimmt sie mit nach Hause — und startet vielleicht einen Circle in seiner Stadt.
+So wächst mit der Zeit ein gemeinsamer Pool an Ressourcen — sichtbar, transparent und für jeden zugänglich. Das Netzwerk wird mit jeder Begegnung, jeder Verbindung und jedem Beitrag ein Stück reicher.
 
 ---
 
