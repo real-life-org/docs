@@ -4,9 +4,8 @@ Konzepte, Vorlagen und Texte der Real Life Organisation und des Real Life Networ
 
 ## Netzwerk
 
-- [Netzwerk-Konzept](netzwerk-konzept.md) — Grundlagendokument: Prinzipien, Focalization, Circles, Festivals, Vernetzung
-- [Vernetzungskonzept](vernetzungskonzept.md) — Wie bestehende Initiativen Teil des Netzwerks werden
-- [Webseite](webseite.md) — Text für reallife.network
+- [Real Life Network](netzwerk.md) — Das Grundlagendokument: Vision, Prinzipien, Circles, Focalization, Werkzeuge, Mitmachen
+- [Vernetzungskonzept](vernetzungskonzept.md) — Wie bestehende Initiativen Teil des Netzwerks werden (Items, Spaces, White Label)
 
 ## Organisation
 

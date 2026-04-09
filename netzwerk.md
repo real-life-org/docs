@@ -4,9 +4,17 @@ Wir gestalten gemeinsam eine Zukunft, in der Menschen verbunden, selbstbestimmt 
 
 ---
 
+## Warum
+
+Wir leben in einer Zeit großer Veränderungen. Wie diese Veränderungen ausgehen, liegt an uns — daran, ob wir zusammen proaktiv Verantwortung übernehmen oder darauf warten, dass jemand anderes es tut. Überall gibt es Menschen, die das verstanden haben und bereit sind zu handeln. Viele suchen, wenige finden sich.
+
+Das Real Life Network macht diese Menschen füreinander sichtbar und gibt ihnen Werkzeuge an die Hand, um gemeinsam zu handeln. Nicht irgendwann. Jetzt.
+
+---
+
 ## Was ist das Real Life Network?
 
-Ein wachsendes Netzwerk aus Menschen und Gemeinschaften, die sich im echten Leben begegnen, gegenseitig unterstützen und gemeinsam Projekte starten. Kein Verein, keine Plattform, keine Organisation — sondern ein lebendiges Geflecht aus Beziehungen, getragen von Vertrauen.
+Ein wachsendes Netzwerk aus Menschen und Gemeinschaften, die sich im echten Leben begegnen, gegenseitig unterstützen und gemeinsam Projekte starten. Kein Verein, keine Plattform, kein Unternehmen, keine Partei — sondern ein lebendiges Geflecht aus Beziehungen, getragen von Vertrauen.
 
 Was uns verbindet: Die Überzeugung, dass positive Veränderung dort beginnt, wo Menschen sich begegnen, Verantwortung übernehmen und zusammen handeln.
 
@@ -22,15 +30,15 @@ Einen Circle kann jeder starten. Es braucht nur ein paar Menschen und einen rege
 
 ### Vernetzen
 
-Es gibt bereits tausende Initiativen, die an einer besseren Zukunft arbeiten — Gemeinschaftsgärten, solidarische Landwirtschaften, Wohnprojekte, Repair Cafes, lokale Netzwerke. Viele davon kennen einander nicht.
+Es gibt bereits tausende Initiativen, die an einer besseren Zukunft arbeiten — Gemeinschaftsgärten, solidarische Landwirtschaften, Wohnprojekte, Repair Cafés, Transition Towns, lokale Netzwerke. Millionen von Menschen, die aktiv sind. Aber die meisten in ihrer eigenen Bubble.
 
-Wir verbinden, was schon da ist. Bestehende Initiativen behalten ihre Identität und Autonomie — aber sie werden füreinander sichtbar. Weil ein Netzwerk nicht durch seine Größe stark wird, sondern durch die Dichte seiner Verbindungen.
+Wir verbinden, was schon da ist. Bestehende Initiativen behalten ihre Identität und Autonomie — aber sie werden füreinander sichtbar. Weil ein Netzwerk nicht durch seine Größe stark wird, sondern durch die Dichte seiner Verbindungen. Jede Initiative, die andockt, bringt nicht nur sich selbst mit — sondern ihr ganzes Netzwerk.
 
 ### Teilen
 
 Was wir gemeinsam anschaffen, gehört allen — Werkzeuge, Festival-Equipment, Küchenausstattung. Einzelne verwalten es, die Gemeinschaft kann es nutzen. Und jeder ist eingeladen, auch persönliche Ressourcen zu teilen: Räume, Fahrzeuge, Fähigkeiten, Wissen.
 
-So wächst mit der Zeit ein gemeinsamer Pool an Ressourcen, der allen zur Verfügung steht.
+Das Netzwerk hat einen gemeinsamen Topf. Wer etwas geben kann, gibt — Geld, Gegenstände, Fähigkeiten, Zeit. Alles ist gleichwertig. Was im Topf ist, wird transparent gemacht. So wächst mit der Zeit ein gemeinsamer Pool an Ressourcen, der allen zur Verfügung steht.
 
 ### Zusammenkommen
 
@@ -62,9 +70,7 @@ Das sind keine abgeschlossenen Posten — sie können sich überschneiden, verä
 
 ### Entscheidungen
 
-Im eigenen Bereich entscheidet jeder frei. Wenn etwas alle betrifft, suchen wir einen Konsent — wir handeln, solange niemand einen schwerwiegenden Einwand hat. Bei grundlegenden Fragen gibt es einen offenen RFC-Prozess: Jemand schreibt einen Vorschlag, alle können kommentieren, am Ende steht eine transparente Entscheidung.
-
-Im Alltag gilt: Free Flow. Die meisten Dinge regeln sich, wenn Menschen mit guter Absicht handeln.
+Im eigenen Bereich entscheidet jeder frei. Wenn etwas alle betrifft, suchen wir einen Konsent — wir handeln, solange niemand einen schwerwiegenden Einwand hat. Im Alltag gilt: Free Flow. Die meisten Dinge regeln sich, wenn Menschen mit guter Absicht handeln.
 
 ---
 
