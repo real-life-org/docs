@@ -6,7 +6,7 @@ Wir gestalten gemeinsam eine Zukunft, in der Menschen verbunden, selbstbestimmt 
 
 ## Warum
 
-Wir leben in einer Zeit großer Veränderungen. Wie diese Veränderungen ausgehen, liegt an uns — daran, ob wir zusammen proaktiv Verantwortung übernehmen oder darauf warten, dass jemand anderes es tut. Überall gibt es Menschen, die das verstanden haben und bereit sind zu handeln. Viele suchen, wenige finden sich.
+Wir leben in einer Zeit großer Veränderungen. Wie diese Veränderungen ausgehen, liegt an uns — daran, ob wir zusammen proaktiv Verantwortung übernehmen oder darauf warten, dass jemand anderes es tut. Überall gibt es Menschen, die das verstanden haben und bereit sind zu handeln.
 
 Das Real Life Network macht diese Menschen füreinander sichtbar und gibt ihnen Werkzeuge an die Hand, um gemeinsam zu handeln. Nicht irgendwann. Jetzt.
 
