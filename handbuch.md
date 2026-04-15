@@ -16,7 +16,7 @@ Dieses Handbuch zeigt dir, was du konkret tun kannst. Nicht alles, nicht sofort,
 
 Niemand steuert das Netzwerk von oben. Es gibt keinen Plan, der abgearbeitet wird. Stattdessen passiert jeden Tag folgendes:
 
-- Jemand lädt eine Freundin zu einem Circle ein
+- Jemand lädt eine Freundin zu einem Kreis ein
 - Jemand lernt auf einem Festival eine Initiative kennen und trägt sie auf der Karte ein
 - Jemand bringt einen Kuchen zum Treffen mit
 - Jemand macht ein Foto und teilt es
@@ -30,7 +30,7 @@ Keine dieser Handlungen ist spektakulär. Aber zusammen ergeben sie ein lebendig
 
 ### Spontan
 
-- **Jemanden einladen** — zu einem Circle, einem Festival, ins Netzwerk
+- **Jemanden einladen** — zu einem Kreis, einem Festival, ins Netzwerk
 - **Jemanden willkommen heißen**, der neu ist — der erste Eindruck zählt
 - **Einen Kontakt weitergeben** — "Du solltest X kennenlernen, ihr arbeitet am gleichen Thema"
 - **Ein Vertrauensverhältnis bestätigen** — im Web of Trust, bei einer echten Begegnung
@@ -38,16 +38,16 @@ Keine dieser Handlungen ist spektakulär. Aber zusammen ergeben sie ein lebendig
 
 ### Regelmäßig
 
-- **Einen Circle planen** — den Raum halten, für Atmosphäre sorgen, alle einbeziehen
-- **Termine pflegen** — Circle-Treffen, lokale Events im Kalender eintragen
+- **Einen Kreis planen** — den Raum halten, für Atmosphäre sorgen, alle einbeziehen
+- **Termine pflegen** — Kreis-Treffen, lokale Events im Kalender eintragen
 - **Gemeinsame Ressourcen verwalten** — wer hat gerade das Zelt? Wo ist die Kochausrüstung?
 - **Neue Einträge auf der Karte anlegen** — Initiativen, Projekte, Orte in deiner Umgebung sichtbar machen
-- **Geschichten erzählen** — ein Foto vom Circle, ein kurzer Text über eine Begegnung, ein Video von einem Festival
+- **Geschichten erzählen** — ein Foto vom Kreis, ein kurzer Text über eine Begegnung, ein Video von einem Festival
 
 ### Bei Gelegenheit
 
 - **Auf ein Festival fahren** und das Vernetzungszelt betreiben
-- **Einen neuen Circle anstoßen** — in deiner Stadt oder einer anderen
+- **Einen neuen Kreis anstoßen** — in deiner Stadt oder einer anderen
 - **Eine bestehende Initiative ansprechen** — SoLaWi, Transition Town, Repair Café — und eine Brücke ins Netzwerk bauen
 - **Equipment transportieren** — Zelt, Material, Küche dorthin bringen, wo es gebraucht wird
 - **Jemanden einladen**, der das Netzwerk noch nicht kennt
@@ -57,12 +57,12 @@ Keine dieser Handlungen ist spektakulär. Aber zusammen ergeben sie ein lebendig
 - **Die App weiterentwickeln** — Code, Design, Testing
 - **Server und Infrastruktur pflegen** — damit die Werkzeuge laufen
 - **Förderanträge schreiben** — Mittel einwerben für Equipment, Reisen, Festivals
-- **Erfahrungen dokumentieren** — damit andere Circles von euren Learnings profitieren
-- **Materialien gestalten** — Flyer, Poster, Vorlagen für neue Circles
+- **Erfahrungen dokumentieren** — damit andere Kreise von euren Learnings profitieren
+- **Materialien gestalten** — Flyer, Poster, Vorlagen für neue Kreise
 
 ---
 
-## Einen Circle starten
+## Einen Kreis starten
 
 ### Was du brauchst
 
@@ -83,15 +83,15 @@ Dauer: 1,5 bis 2 Stunden reichen.
 ### Was danach kommt
 
 - Einigt euch auf den nächsten Termin bevor ihr auseinandergeht
-- Tragt den Circle im Kalender der App ein
+- Tragt den Kreis im Kalender der App ein
 - Ladet beim nächsten Mal ein oder zwei neue Leute ein
 - Experimentiert mit dem Format — es gehört euch
 
-### Was einen Circle am Leben hält
+### Was einen Kreis am Leben hält
 
 - **Regelmäßigkeit** — der Rhythmus ist wichtiger als die Perfektion
 - **Offenheit** — neue Menschen sind willkommen
-- **Keine Agenda** — der Circle gehört den Menschen darin, nicht einem Programm
+- **Keine Agenda** — der Kreis gehört den Menschen darin, nicht einem Programm
 - **Gemeinsames Essen** — zusammen kochen oder jeder bringt etwas mit. Essen verbindet.
 - **Geduld** — es braucht 3–4 Treffen, bis eine Gruppe ihren Rhythmus findet
 
@@ -118,7 +118,7 @@ Dauer: 1,5 bis 2 Stunden reichen.
 ### Danach
 
 - **Kontakte nachfassen** — persönliche Nachricht an die Menschen, die Interesse gezeigt haben
-- **Regionale Verbindungen anstoßen** — "5 Leute aus Leipzig haben sich bei uns getroffen — wollt ihr einen Circle starten?"
+- **Regionale Verbindungen anstoßen** — "5 Leute aus Leipzig haben sich bei uns getroffen — wollt ihr einen Kreis starten?"
 - **Erfahrungen teilen** — was hat funktioniert, was nicht? Fotos, kurzer Bericht fürs Netzwerk
 - **Equipment zurückbringen** — oder an den nächsten Festival-Einsatz weitergeben
 
@@ -133,7 +133,7 @@ Das Netzwerk baut einen wachsenden Pool an geteilten Ressourcen auf. Alles was e
 **So funktioniert es:**
 - Jemand bringt einen Pavillon mit → er wird im Marktplatz eingetragen, die Person verwaltet ihn
 - Das Netzwerk kauft eine Kochausrüstung von Fördermitteln → sie wird eingetragen, jemand übernimmt die Verwaltung
-- Jemand bietet seinen Garten für Circle-Treffen an → erscheint auf der Karte
+- Jemand bietet seinen Garten für Kreis-Treffen an → erscheint auf der Karte
 
 **Verwaltung heißt:** Du weißt wo es ist, du hältst es in Schuss, du koordinierst wer es wann nutzt. Es gehört nicht dir — du kümmerst dich darum.
 
@@ -156,7 +156,7 @@ Was im Topf ist, wird transparent gemacht. Ausgaben werden gemeinsam besprochen.
 
 ### Im Alltag: Free Flow
 
-Die meisten Dinge regeln sich, wenn Menschen mit guter Absicht handeln. Du willst einen Circle starten? Tu es. Du willst ein Item auf der Karte anlegen? Tu es. Du willst auf ein Festival fahren? Tu es.
+Die meisten Dinge regeln sich, wenn Menschen mit guter Absicht handeln. Du willst einen Kreis starten? Tu es. Du willst ein Item auf der Karte anlegen? Tu es. Du willst auf ein Festival fahren? Tu es.
 
 ### Wenn es andere betrifft: Konsent
 
@@ -174,9 +174,9 @@ Das Netzwerk hat eigene digitale Werkzeuge. Sie sind optional — das Netzwerk l
 
 **Web of Trust** — Nach einer echten Begegnung bestätigt ihr euch gegenseitig. So entsteht ein Netz aus verifizierten Vertrauensbeziehungen.
 
-**Karte** — Zeigt was es in deiner Umgebung gibt: Circles, Initiativen, geteilte Ressourcen, Menschen.
+**Karte** — Zeigt was es in deiner Umgebung gibt: Kreise, Initiativen, geteilte Ressourcen, Menschen.
 
-**Kalender** — Alle Treffen und Events an einem Ort. Dein Circle trägt seine Termine ein, du siehst was sonst noch passiert.
+**Kalender** — Alle Treffen und Events an einem Ort. Dein Kreis trägt seine Termine ein, du siehst was sonst noch passiert.
 
 **Marktplatz** — Wer hat was? Ein Zelt, eine Fähigkeit, einen Raum? Hier findest du es.
 

@@ -76,9 +76,9 @@ Ein Space ist ein Raum für eine Gemeinschaft. Er hat Mitglieder, Module, und ei
 
 ### Die Brücke
 
-Die Verbindung zwischen Spaces entsteht nicht durch technische Integration, sondern durch Menschen. Michaela ist Mitglied der Transition Town Stuttgart und besucht den Real Life Circle in Stuttgart. Sie ist in beiden Spaces aktiv. Dadurch sind die beiden Spaces verbunden — organisch, über echtes Vertrauen.
+Die Verbindung zwischen Spaces entsteht nicht durch technische Integration, sondern durch Menschen. Michaela ist Mitglied der Transition Town Stuttgart und besucht den Real Life Kreis in Stuttgart. Sie ist in beiden Spaces aktiv. Dadurch sind die beiden Spaces verbunden — organisch, über echtes Vertrauen.
 
-Items, die in mehreren Spaces existieren, verstärken diese Verbindung. Eine Veranstaltung der Transition Town taucht im Kalender des Real Life Circle auf. Ein Hilfegesuch im Marktplatz des einen Spaces wird im anderen sichtbar. Die Grenzen zwischen Spaces werden durchlässig — ohne dass jemand die Kontrolle über seinen Space abgibt.
+Items, die in mehreren Spaces existieren, verstärken diese Verbindung. Eine Veranstaltung der Transition Town taucht im Kalender des Real Life Kreis auf. Ein Hilfegesuch im Marktplatz des einen Spaces wird im anderen sichtbar. Die Grenzen zwischen Spaces werden durchlässig — ohne dass jemand die Kontrolle über seinen Space abgibt.
 
 ---
 
@@ -110,7 +110,7 @@ Eine Gemeinschaft auf dem Land. Hat Gärten, Werkstätten, Gästezimmer, sucht H
 
 - **Item auf der Karte** mit dem, was sie anbieten und suchen
 - **Jonathan und Agnes übernachten dort**, Vertrauensverbindung entsteht
-- **Über diese Verbindung** findet ein Circle in Berlin heraus, dass es eine Gemeinschaft gibt, die Erntehelfer sucht — drei Leute fahren hin
+- **Über diese Verbindung** findet ein Kreis in Berlin heraus, dass es eine Gemeinschaft gibt, die Erntehelfer sucht — drei Leute fahren hin
 - **Eigener Space** mit Gäste-Kalender, Aufgabenliste, Ressourcen-Übersicht
 - **White Label** mit eigenem Design und eigener Domain für ihre Community
 

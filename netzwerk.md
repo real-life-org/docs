@@ -52,11 +52,11 @@ So wächst mit der Zeit ein gemeinsamer Pool an Ressourcen — sichtbar, transpa
 
 ### Jeder bringt ein, was er kann
 
-Im Netzwerk gibt es keine festen Rollen und keine Hierarchie. Stattdessen übernehmen Menschen Verantwortung für das, was ihnen liegt — freiwillig und so lange sie Energie dafür haben. Wir nennen das **Focalization**: Jemand hält den Fokus auf einen Bereich, bringt Kompetenz mit und gibt die Richtung vor. Die Autorität kommt aus Können und Vertrauen, nicht aus einer Position. Und die Verantwortung kann jederzeit weitergegeben werden.
+Im Netzwerk gibt es keine festen Rollen und keine Hierarchie. Menschen übernehmen Verantwortung für das, was ihnen liegt — freiwillig und so lange sie Energie dafür haben. Die Verantwortung kann jederzeit weitergegeben werden.
 
 Bereiche, in denen sich Menschen einbringen:
 
-**Begegnung** — Circles moderieren, Räume öffnen, dafür sorgen dass alle gehört werden. Für Menschen, die gerne Gruppen begleiten und Atmosphäre schaffen.
+**Begegnung** — Kreise organisieren und moderieren, Räume öffnen, dafür sorgen dass alle gehört werden. Für Menschen, die gerne Gruppen begleiten und Atmosphäre schaffen.
 
 **Verbindung** — Menschen und Initiativen zusammenbringen, Brücken bauen, das Netz weben. Für Menschen, die gerne andere kennenlernen und verbinden.
 
@@ -66,7 +66,7 @@ Bereiche, in denen sich Menschen einbringen:
 
 **Werkzeuge** — Digitale Infrastruktur bauen und pflegen: App, Karte, Kalender, Marktplatz. Für Menschen, die Technologie in den Dienst der Gemeinschaft stellen wollen.
 
-**Wachstum** — Neue Circles begleiten, Erfahrungen weitergeben, Menschen unterstützen die in ihrer Region etwas starten wollen. Für Menschen, die gerne weitergeben, was sie gelernt haben.
+**Wachstum** — Neue Kreise begleiten, Erfahrungen weitergeben, Menschen unterstützen die in ihrer Region etwas starten wollen. Für Menschen, die gerne weitergeben, was sie gelernt haben.
 
 Das sind keine abgeschlossenen Posten — sie können sich überschneiden, verändern und erweitern. Und kein Bereich ist wichtiger als ein anderer.
 
@@ -82,9 +82,9 @@ Wir entwickeln digitale Werkzeuge, die dem Netzwerk dienen. Alle sind Open Sourc
 
 **Web of Trust** — Persönliche Begegnungen werden zu verifizierbaren Vertrauensbeziehungen. Ein dezentrales Vertrauensnetzwerk ohne zentrale Datenbank.
 
-**Map** — Eine Karte, die sichtbar macht, was es in deiner Umgebung gibt: Initiativen, Circles, geteilte Ressourcen, Menschen.
+**Map** — Eine Karte, die sichtbar macht, was es in deiner Umgebung gibt: Initiativen, Kreise, geteilte Ressourcen, Menschen.
 
-**Kalender** — Treffen, Festivals, Veranstaltungen. Jeder Circle pflegt seine Termine, das Netzwerk macht sie füreinander sichtbar.
+**Kalender** — Treffen, Festivals, Veranstaltungen. Jeder Kreis pflegt seine Termine, das Netzwerk macht sie füreinander sichtbar.
 
 **Marktplatz** — Was das Netzwerk gemeinsam hat: Gegenstände, Fähigkeiten, Räume. Wer hat was? Wo ist es? Wie kann ich es nutzen?
 
@@ -112,11 +112,11 @@ Die Werkzeuge sind Mittel zum Zweck. Das Netzwerk lebt durch Begegnungen, nicht 
 
 Du musst nichts unterschreiben, keinen Beitrag zahlen und dich nirgendwo anmelden. Du bist Teil des Netzwerks, wenn du dich dazugehörig fühlst.
 
-**Komm zu einem Circle.** Finde ein Treffen in deiner Nähe — oder starte selbst eins mit ein paar Menschen, denen du vertraust.
+**Komm zu einem Kreis.** Finde ein Treffen in deiner Nähe — oder starte selbst eins mit ein paar Menschen, denen du vertraust.
 
 **Bring ein, was du kannst.** Ob du gerne kochst, moderierst, organisierst, Code schreibst, fotografierst oder einfach da bist — alles zählt.
 
-**Teile, was du hast.** Einen Raum, ein Werkzeug, eine Fähigkeit, eine Idee, deine Zeit.
+**Teile, was du hast.** Einen Raum, ein Werkzeug, eine Fähigkeit, eine Idee, deine Zeit.Weil ein Netzwerk nicht durch seine Größe stark wird, sondern durch die Dichte seiner Verbindungen
 
 **Verbinde, was du kennst.** Du bist Teil einer Initiative, eines Projekts, einer Gemeinschaft? Lass uns verbinden.
 

@@ -7,13 +7,13 @@
 
 ## 1. Projekttitel
 
-**Real Life Circles — Vertrauensbasierte Nachbarschaftsvernetzung durch digitale und analoge Begegnung**
+**Real Life Kreise — Vertrauensbasierte Nachbarschaftsvernetzung durch digitale und analoge Begegnung**
 
 `[ANPASSEN]` Alternative Titel je nach Förderer:
 - Stiftungen (Demokratie): *"Vertrauen als Grundlage demokratischer Teilhabe — Aufbau lokaler Begegnungsräume"*
-- EU / Erasmus+: *"Real Life Circles — Building Trust-Based Communities Across Europe"*
+- EU / Erasmus+: *"Real Life Kreise — Building Trust-Based Communities Across Europe"*
 - Tech-Förderung (NGI, Prototype Fund): *"Web of Trust — Dezentrale Vertrauensinfrastruktur für Gemeinschaften"*
-- Engagement-Förderung (DSEE): *"Real Life Circles — Digitale Werkzeuge für bürgerschaftliches Engagement"*
+- Engagement-Förderung (DSEE): *"Real Life Kreise — Digitale Werkzeuge für bürgerschaftliches Engagement"*
 - Kirchliche/Soziale Träger: *"Echte Begegnung in digitalen Zeiten — Gemeinschaftsbildung durch Vertrauenskreise"*
 
 ---
@@ -32,13 +32,13 @@ Es fehlt an:
 
 ### Unsere Lösung
 
-**Real Life Circles** verbindet analoge Begegnungsformate mit digitaler Infrastruktur:
+**Real Life Kreise** verbindet analoge Begegnungsformate mit digitaler Infrastruktur:
 
-1. **Regelmäßige lokale Treffen ("Circles"):** Moderierte Begegnungsformate, in denen Menschen einander kennenlernen, Vertrauen aufbauen und gemeinsame Projekte starten.
+1. **Regelmäßige lokale Treffen ("Kreise"):** Moderierte Begegnungsformate, in denen Menschen einander kennenlernen, Vertrauen aufbauen und gemeinsame Projekte starten.
 
 2. **Digitale Vernetzung:** Eine App, die auf dem **Web of Trust** basiert — einem dezentralen Vertrauensnetzwerk, in dem echte Begegnungen zu digitalen Vertrauensbeziehungen werden. Keine zentrale Datenbank, keine Plattform-Abhängigkeit.
 
-3. **Festival- und Veranstaltungspräsenz:** Vernetzungszelte auf Festivals und Veranstaltungen, die als Keimzellen für neue lokale Circles dienen.
+3. **Festival- und Veranstaltungspräsenz:** Vernetzungszelte auf Festivals und Veranstaltungen, die als Keimzellen für neue lokale Kreise dienen.
 
 Das Ergebnis: Ein wachsendes Netzwerk von Gemeinschaften, die lokal verwurzelt und überregional verbunden sind — getragen von echtem Vertrauen statt von Algorithmen.
 
@@ -100,8 +100,8 @@ Das Projektteam arbeitet seit Januar 2025 an der technischen und konzeptionellen
 ### Projektziele
 
 **Ziel 1: Lokale Begegnungsräume schaffen**
-- Aufbau von mindestens `[ANPASSEN: 5-20]` regelmäßigen Real Life Circles in `[ANPASSEN: Region/Deutschland/Europa]`
-- Jeder Circle trifft sich alle 2 Wochen mit 10-25 Teilnehmenden
+- Aufbau von mindestens `[ANPASSEN: 5-20]` regelmäßigen Real Life Kreise in `[ANPASSEN: Region/Deutschland/Europa]`
+- Jeder Kreis trifft sich alle 2 Wochen mit 10-25 Teilnehmenden
 - Erprobte, dokumentierte Moderationsformate für vertrauensbasierte Begegnung
 
 **Ziel 2: Digitale Infrastruktur bereitstellen**
@@ -117,19 +117,19 @@ Das Projektteam arbeitet seit Januar 2025 an der technischen und konzeptionellen
 **Ziel 4: Festival-Präsenz als Skalierungshebel**
 - Präsenz auf mindestens `[ANPASSEN: 3-10]` Festivals/Veranstaltungen im Sommer 2026
 - Erprobtes Format für Vernetzungszelt
-- Jedes Festival als Startpunkt für mindestens 2 neue lokale Circles
+- Jedes Festival als Startpunkt für mindestens 2 neue lokale Kreise
 
 ### Wirkungsindikatoren
 
 | Indikator | Zielwert (12 Monate) |
 |-----------|----------------------|
-| Aktive Circles | `[ANPASSEN: 10-30]` |
+| Aktive Kreise | `[ANPASSEN: 10-30]` |
 | Regelmäßige Teilnehmende | `[ANPASSEN: 200-600]` |
 | Vernetzte Initiativen | `[ANPASSEN: 20-100]` |
 | Festival-Präsenzen | `[ANPASSEN: 5-15]` |
-| Neue Circles aus Festivals | `[ANPASSEN: 10-30]` |
+| Neue Kreise aus Festivals | `[ANPASSEN: 10-30]` |
 | App-Nutzende | `[ANPASSEN: 500-2000]` |
-| Dokumentierte Circle-Formate | 5-10 |
+| Dokumentierte Kreis-Formate | 5-10 |
 
 ### Gesellschaftliche Wirkung (langfristig)
 
@@ -147,7 +147,7 @@ Das Projektteam arbeitet seit Januar 2025 an der technischen und konzeptionellen
 | Maßnahme | Ergebnis |
 |----------|----------|
 | Kernteam aufbauen und Rollen klären | Projektstruktur steht |
-| Circle-Format entwickeln und intern testen | 3 Testdurchläufe, iteriertes Format |
+| Kreis-Format entwickeln und intern testen | 3 Testdurchläufe, iteriertes Format |
 | App für Onboarding optimieren | Funktionierender Kernflow |
 | Kommunikationsmaterialien erstellen | Landingpage, Einladungsvorlagen, Leitfaden |
 | Partnerschaften mit lokalen Initiativen anbahnen | 5 bestätigte Partnerorganisationen |
@@ -156,27 +156,27 @@ Das Projektteam arbeitet seit Januar 2025 an der technischen und konzeptionellen
 
 | Maßnahme | Ergebnis |
 |----------|----------|
-| Erste öffentliche Circles starten | 3-5 laufende Circles |
+| Erste öffentliche Kreise starten | 3-5 laufende Kreise |
 | Festival-Format entwickeln und vorbereiten | Erprobtes Zelt-Konzept, Material, Team |
 | App mit echten Nutzer*innen testen | Feedback einarbeiten, Stabilität sichern |
 | Dokumentation der Erfahrungen beginnen | Blog, Fotos, Teilnehmer*innen-Stimmen |
-| Circle-Host-Schulung pilotieren | 5 geschulte Hosts |
+| Kreis-Host-Schulung pilotieren | 5 geschulte Hosts |
 
 ### Phase 3: Skalierung (Monat 7-9)
 
 | Maßnahme | Ergebnis |
 |----------|----------|
 | Festival-Saison: Vernetzungszelte betreiben | `[ANPASSEN]` Festival-Präsenzen |
-| Kontakte nachfassen, lokale Circles anstoßen | Neue Circles in neuen Städten |
+| Kontakte nachfassen, lokale Kreise anstoßen | Neue Kreise in neuen Städten |
 | Bestehende Initiativen auf Karte onboarden | `[ANPASSEN]` vernetzte Initiativen |
-| Überregionales Vernetzungstreffen | Austausch zwischen Circles |
+| Überregionales Vernetzungstreffen | Austausch zwischen Kreise |
 
 ### Phase 4: Verstetigung (Monat 10-12)
 
 | Maßnahme | Ergebnis |
 |----------|----------|
-| Circle-Host-Ausbildung ausbauen | Selbsttragendes Wachstum |
-| Handbuch "Real Life Circle starten" veröffentlichen | Frei verfügbare Anleitung |
+| Kreis-Host-Ausbildung ausbauen | Selbsttragendes Wachstum |
+| Handbuch "Real Life Kreis starten" veröffentlichen | Frei verfügbare Anleitung |
 | Wirkungsmessung und Evaluation | Dokumentierte Ergebnisse |
 | Nachhaltigkeitskonzept für Folgejahre | Finanzierungs- und Wachstumsplan |
 
@@ -210,7 +210,7 @@ Das Projektteam arbeitet seit Januar 2025 an der technischen und konzeptionellen
 
 | Partner | Rolle | Status |
 |---------|-------|--------|
-| `[Lokale Initiative 1]` | Pilotpartner für ersten Circle | `[bestätigt/angefragt]` |
+| `[Lokale Initiative 1]` | Pilotpartner für ersten Kreis | `[bestätigt/angefragt]` |
 | `[Festival 1]` | Vernetzungszelt Sommer 2026 | eingeladen |
 | `[Festival 2]` | Vernetzungszelt Sommer 2026 | eingeladen |
 | `[SoLaWi / Hausprojekt]` | Testnutzer für App | `[Status]` |
@@ -221,10 +221,10 @@ Das Projektteam arbeitet seit Januar 2025 an der technischen und konzeptionellen
 
 ### Grundprinzip: Ermöglichung statt Bezahlung
 
-Dieses Projekt basiert auf intrinsischer Motivation. **Kein Fördergeld fließt in Gehälter oder Honorare.** Die Menschen, die Circles moderieren, auf Festivals präsent sind und die Software entwickeln, tun dies, weil die Tätigkeit selbst sinnvoll und erfüllend ist — nicht, weil sie dafür bezahlt werden.
+Dieses Projekt basiert auf intrinsischer Motivation. **Kein Fördergeld fließt in Gehälter oder Honorare.** Die Menschen, die Kreise moderieren, auf Festivals präsent sind und die Software entwickeln, tun dies, weil die Tätigkeit selbst sinnvoll und erfüllend ist — nicht, weil sie dafür bezahlt werden.
 
 Fördermittel dienen ausschließlich dazu, **Rahmenbedingungen zu schaffen:**
-- Dass Räume da sind, wenn Circles sich treffen
+- Dass Räume da sind, wenn Kreise sich treffen
 - Dass niemand draufzahlt, wenn er zu einem Festival fährt
 - Dass die digitale Infrastruktur zuverlässig läuft
 - Dass Materialien existieren, die einladen und erklären
@@ -242,7 +242,7 @@ Wo immer möglich, tragen die Gemeinschaften Alltagskosten (Essen, Verpflegung, 
 | Reisekosten Festivals | 2.000 EUR | Fahrt + Unterkunft für 3-4 Mitwirkende, 2-3 Festivals |
 | Digitale Infrastruktur | 1.000 EUR | Server, Domain, Hosting (12 Monate) |
 | Drucksachen & Kommunikation | 1.000 EUR | Flyer, Postkarten, Landingpage |
-| Circle-Raummieten | 1.000 EUR | Dort wo kein kostenloser Raum verfügbar (Rückfalloption) |
+| Kreis-Raummieten | 1.000 EUR | Dort wo kein kostenloser Raum verfügbar (Rückfalloption) |
 | Unvorhergesehenes | 500 EUR | |
 | **Gesamt** | **8.000 EUR** | |
 
@@ -255,16 +255,16 @@ Wo immer möglich, tragen die Gemeinschaften Alltagskosten (Essen, Verpflegung, 
 |--------|--------|-------------|
 | Festival-Präsenz (Ausstattung) | 5.000 EUR | Professionelles Zelt, Ausstattung, Karte, interaktive Elemente |
 | Reisekosten Festivals | 5.000 EUR | 5-8 Festivals, Fahrt + Unterkunft für Teams |
-| Reisekosten Vernetzung | 3.000 EUR | Überregionale Circle-Treffen, Partnerbesuche |
+| Reisekosten Vernetzung | 3.000 EUR | Überregionale Kreis-Treffen, Partnerbesuche |
 | Digitale Infrastruktur | 2.500 EUR | Server, Relay, Monitoring (12 Monate) |
 | Kommunikation & Dokumentation | 3.000 EUR | Video-Dokumentation, Website, Drucksachen |
-| Circle-Ausstattung | 2.000 EUR | Moderationsmaterial-Sets für neue Circles |
+| Kreis-Ausstattung | 2.000 EUR | Moderationsmaterial-Sets für neue Kreise |
 | Raummieten (Rückfall) | 2.000 EUR | Nur wo kein kostenloser Raum verfügbar |
 | Großes Vernetzungstreffen | 3.000 EUR | 1x jährlich, Raummiete + Reisekostenzuschüsse für Teilnehmende |
 | Unvorhergesehenes | 1.500 EUR | |
 | **Gesamt** | **27.000 EUR** | |
 
-*Eigenleistung: Gesamte Entwicklung, Moderation, Organisation. Verpflegung bei Circles und Festivals wird von den Gemeinschaften selbst organisiert (Mitbring-Buffet, gemeinsames Kochen, Spendenkasse).*
+*Eigenleistung: Gesamte Entwicklung, Moderation, Organisation. Verpflegung bei Kreise und Festivals wird von den Gemeinschaften selbst organisiert (Mitbring-Buffet, gemeinsames Kochen, Spendenkasse).*
 
 ### Variante C: Reichweite (40.000 — 60.000 EUR)
 *Geeignet für: EU-Programme (Erasmus+, CERV), Kombination mehrerer Förderer*
@@ -276,7 +276,7 @@ Wo immer möglich, tragen die Gemeinschaften Alltagskosten (Essen, Verpflegung, 
 | Reisekosten Vernetzung | 5.000 EUR | Überregional + international (bei EU-Förderung) |
 | Digitale Infrastruktur | 3.000 EUR | Server, Relay, Vault, Monitoring (12 Monate) |
 | Kommunikation & Dokumentation | 5.000 EUR | Video-Reihe, professionelles Design, Übersetzungen |
-| Circle-Ausstattung | 3.000 EUR | Starter-Kits für 15+ neue Circles |
+| Kreis-Ausstattung | 3.000 EUR | Starter-Kits für 15+ neue Kreise |
 | Raummieten (Rückfall) | 3.000 EUR | Nur wo kein kostenloser Raum verfügbar |
 | Vernetzungstreffen (2x) | 5.000 EUR | Halbjährlich, Raummiete + Reisekostenzuschüsse |
 | Evaluation & Dokumentation | 3.000 EUR | Wirkungsmessung, Erfahrungsberichte |
@@ -305,10 +305,10 @@ Fördermittel sind kein Betriebsbudget, das aufgebraucht wird. **Sie verwandeln 
 
 Das Projekt ist bewusst so gestaltet, dass es **nach Förderende ohne Finanzierung weiterlebt:**
 
-- **Circles tragen sich selbst.** Hosts moderieren aus eigenem Antrieb. Räume werden von Gemeinschaften gestellt oder sind öffentlich. Verpflegung organisiert die Gruppe.
+- **Kreise tragen sich selbst.** Hosts moderieren aus eigenem Antrieb. Räume werden von Gemeinschaften gestellt oder sind öffentlich. Verpflegung organisiert die Gruppe.
 - **Die App ist Open Source** und läuft auf minimaler Infrastruktur (Serverkosten < 50 EUR/Monat, tragbar durch die Gemeinschaft).
-- **Wissen ist frei verfügbar.** Handbuch, Formate und Erfahrungen werden offen dokumentiert — jede Gemeinschaft kann einen Circle starten, ohne jemanden zu fragen.
-- **Intrinsische Motivation skaliert.** Wer eine gute Circle-Erfahrung macht, lädt andere ein. Nicht weil es ein Wachstumsziel gibt, sondern weil es sich gut anfühlt.
+- **Wissen ist frei verfügbar.** Handbuch, Formate und Erfahrungen werden offen dokumentiert — jede Gemeinschaft kann einen Kreis starten, ohne jemanden zu fragen.
+- **Intrinsische Motivation skaliert.** Wer eine gute Kreis-Erfahrung macht, lädt andere ein. Nicht weil es ein Wachstumsziel gibt, sondern weil es sich gut anfühlt.
 
 - **Anschaffungen werden zu Commons.** Alles, was mit Fördermitteln gekauft wird — Zelte, Küchenausstattung, Material — bleibt als kollektives Eigentum in der Gemeinschaft. Einzelne Mitglieder verwalten die Gegenstände, alle können sie nutzen. Über den Marktplatz in der App ist transparent sichtbar, was wo verfügbar ist. So baut jede Förderung einen wachsenden Pool an geteilten Ressourcen auf.
 
@@ -317,9 +317,9 @@ Fördermittel beschleunigen die Anfangsphase: Sie ermöglichen Festival-Präsenz
 ### Skalierbarkeit
 
 Das Modell skaliert organisch, ohne zentrale Steuerung:
-- Jeder Circle kann neue Circles hervorbringen
+- Jeder Kreis kann neue Kreise hervorbringen
 - Jedes Festival erreicht Menschen aus vielen Regionen
-- Die App verbindet lokale Circles zu einem überregionalen Netzwerk
+- Die App verbindet lokale Kreise zu einem überregionalen Netzwerk
 - Open-Source-Infrastruktur ermöglicht Adaption ohne zentrale Genehmigung
 - Gemeinschaften, die wachsen, übernehmen Verantwortung für ihre eigene Infrastruktur
 
@@ -368,15 +368,15 @@ Das Modell skaliert organisch, ohne zentrale Steuerung:
 
 ### Erasmus+ (Jugend / Erwachsenenbildung)
 - **Schwerpunkt:** Europäischer Austausch, nicht-formale Bildung
-- **Framing:** "Real Life Circles — Trust-Based Learning for Active Citizenship"
+- **Framing:** "Real Life Kreise — Trust-Based Learning for Active Citizenship"
 - **Budget:** Variante C
 - **Besonderheit:** Partner in mindestens 2 EU-Ländern nötig, englischer Antrag
 
 ### Startnext / Crowdfunding
 - **Schwerpunkt:** Community-getragene Finanzierung
-- **Framing:** "Hilf uns, 10 Real Life Circles in Deutschland zu starten"
+- **Framing:** "Hilf uns, 10 Real Life Kreise in Deutschland zu starten"
 - **Budget:** Variante A
-- **Besonderheit:** Emotionale Ansprache, Video, konkrete Gegenleistungen (Circle-Einladung, Name auf Karte, Festival-Ticket)
+- **Besonderheit:** Emotionale Ansprache, Video, konkrete Gegenleistungen (Kreis-Einladung, Name auf Karte, Festival-Ticket)
 
 ### Kirchliche Träger (Diakonie, Caritas)
 - **Schwerpunkt:** Gemeinwesenarbeit, Einsamkeit, soziale Teilhabe
