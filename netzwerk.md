@@ -1,6 +1,6 @@
 # Real Life Network
 
-Wir gestalten gemeinsam eine Zukunft, in der Menschen verbunden, selbstbestimmt und in Verantwortung füreinander leben — und wir fangen jetzt damit an.
+Wir gestalten gemeinsam eine Welt, in der Menschen verbunden, selbstbestimmt und in Verantwortung füreinander leben — und wir fangen jetzt damit an.
 
 ---
 
@@ -8,7 +8,7 @@ Wir gestalten gemeinsam eine Zukunft, in der Menschen verbunden, selbstbestimmt 
 
 Wir leben in einer Zeit großer Veränderungen. Wie diese Veränderungen ausgehen, liegt an uns — daran, ob wir zusammen proaktiv Verantwortung übernehmen oder darauf warten, dass jemand anderes es tut. Überall gibt es Menschen, die das verstanden haben und bereit sind zu handeln.
 
-Das Real Life Network macht diese Menschen füreinander sichtbar und gibt ihnen Werkzeuge an die Hand, um gemeinsam zu handeln. Nicht irgendwann. Jetzt.
+Das Real Life Network macht diese Menschen füreinander sichtbar und gibt ihnen Werkzeuge an die Hand, um gemeinsam jetzt zu handeln.
 
 ---
 
@@ -24,19 +24,21 @@ Was uns verbindet: Die Überzeugung, dass positive Veränderung dort beginnt, wo
 
 ### Begegnen
 
-Wir treffen uns regelmäßig in lokalen Gruppen — wir nennen sie **Circles** oder **Kreise**. Kein Programm, kein Vortrag, keine Agenda die wichtiger ist als die Menschen im Raum. Einfach echte Begegnung. Daraus entstehen Freundschaften, Projekte und gegenseitige Unterstützung.
+Wir treffen uns regelmäßig in lokalen Gruppen — wir nennen sie **Kreise**. Daraus entstehen Freundschaften, Projekte und gegenseitige Unterstützung.
 
-Einen Circle kann jeder starten. Es braucht nur ein paar Menschen und einen regelmäßigen Rhythmus. Auf Festivals und Veranstaltungen betreiben wir Vernetzungszelte — Orte, an denen neue Begegnungen entstehen und Samen für lokale Circles gesät werden.
+Einen Kreis kann jeder starten. Es braucht nur ein paar Menschen und einen regelmäßigen Rhythmus.
+
+Auf Festivals und Veranstaltungen betreiben wir Vernetzungszelte — Orte, an denen neue Begegnungen entstehen und Samen für lokale Kreise gesät werden.
 
 ### Vernetzen
 
-Es gibt bereits tausende Initiativen, die an einer besseren Zukunft arbeiten — Gemeinschaftsgärten, solidarische Landwirtschaften, Wohnprojekte, Repair Cafés, Transition Towns, lokale Netzwerke. Millionen von Menschen, die aktiv sind. Aber die meisten in ihrer eigenen Bubble.
+Es gibt bereits tausende Initiativen, die an einer besseren Welt arbeiten — Gemeinschaftsgärten, solidarische Landwirtschaften, Wohnprojekte, Repair Cafés, Transition Towns, lokale Netzwerke. Millionen von Menschen, die aktiv sind. Aber die meisten in ihrer eigenen Blase.
 
-Wir verbinden, was schon da ist. Bestehende Initiativen behalten ihre Identität und Autonomie — aber sie werden füreinander sichtbar. Weil ein Netzwerk nicht durch seine Größe stark wird, sondern durch die Dichte seiner Verbindungen. Jede Initiative, die andockt, bringt nicht nur sich selbst mit — sondern ihr ganzes Netzwerk.
+Wir verbinden, was schon da ist. Bestehende Initiativen behalten ihre Identität und Autonomie — aber sie werden füreinander sichtbar. Ein Netzwerk lebt von der Dichte seiner Verbindungen. Jede Initiative, die andockt, bringt ihr ganzes Netzwerk mit.
 
 ### Beitragen
 
-Jeder bringt ein, was er kann und will — freiwillig, ohne Verpflichtung. Das kann Geld sein, aber genauso gut ein Werkzeug, ein Raum, eine Fähigkeit oder Zeit. Alles ist gleichwertig. Niemand muss etwas geben, um dazuzugehören. Aber wer gibt, stärkt das Ganze.
+Jeder bringt ein, was er kann und will — freiwillig, ohne Verpflichtung. Das kann Geld sein, aber genauso gut ein Werkzeug, ein Raum, eine Fähigkeit oder Zeit. Alles ist gleichwertig. Wer gibt, stärkt das Ganze.
 
 ### Teilen
 
