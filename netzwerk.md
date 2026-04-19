@@ -76,7 +76,15 @@ Im eigenen Bereich entscheidet jeder frei. Wenn etwas alle betrifft, suchen wir 
 
 ---
 
-## Unsere Werkzeuge
+## Wie das Netzwerk wächst
+
+Alles beginnt mit einer Begegnung. Ein Event, ein Abend, ein Gespräch. Daraus entstehen Kreise — regelmäßige Treffen, in denen Vertrauen wächst. Aus dem Vertrauen entstehen Orte — ein geteilter Garten, eine offene Werkstatt, ein Raum der bleibt. Und aus den Orten entsteht gemeinsame Infrastruktur — Energie, Nahrung, Mobilität, Wissen.
+
+Jede Stufe braucht die vorherige. Nichts davon lässt sich erzwingen — aber alles lässt sich ermöglichen. Das Netzwerk gibt nicht vor, wann — es zeigt, wie.
+
+---
+
+## Unsere digitalen Werkzeuge
 
 Wir entwickeln digitale Werkzeuge, die dem Netzwerk dienen. Alle sind Open Source, dezentral und gehören niemandem.
 
@@ -116,7 +124,7 @@ Du musst nichts unterschreiben, keinen Beitrag zahlen und dich nirgendwo anmelde
 
 **Bring ein, was du kannst.** Ob du gerne kochst, moderierst, organisierst, Code schreibst, fotografierst oder einfach da bist — alles zählt.
 
-**Teile, was du hast.** Einen Raum, ein Werkzeug, eine Fähigkeit, eine Idee, deine Zeit.Weil ein Netzwerk nicht durch seine Größe stark wird, sondern durch die Dichte seiner Verbindungen
+**Teile, was du hast.** Einen Raum, ein Werkzeug, eine Fähigkeit, eine Idee, deine Zeit. Weil ein Netzwerk nicht durch seine Größe stark wird, sondern durch die Dichte seiner Verbindungen
 
 **Verbinde, was du kennst.** Du bist Teil einer Initiative, eines Projekts, einer Gemeinschaft? Lass uns verbinden.
 

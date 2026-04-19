@@ -10,9 +10,8 @@ Im Juli und Anfang August 2026 findet eine dichte Festival-Saison statt, bei der
 |----------|-------|-----|--------------|-------------|
 | 8.–12. Juli | **DWeb Camp** | Brandenburg | Demo, Networking, Talk/Workshop | Tech-Demo für Expert:innen |
 | 12.–14. Juli | **Local First Conf** | Berlin | **Talk eingereicht, halbe Zusage für kostenloses Opportunity Ticket** | Vortrag, technische Tiefe |
-| ~15.–20. Juli | Global Ecovillage Network Gathering | — | optional (Anton entscheidet) | — |
-| ~20. Juli | Pause | — | Erholung | — |
-| ab ~25. Juli | **Pax Friedensfestival** | — | Stand im Vernetzungszelt | Produktiver App-Einsatz mit echten User:innen |
+| 15.–21. Juli | Pause / Erholung | — | Keine Events | — |
+| ab 22. Juli | **Pax Friedensfestival** | — | Stand im Vernetzungszelt | Produktiver App-Einsatz mit echten User:innen |
 
 ## Anforderungen pro Event
 
@@ -50,7 +49,7 @@ Die drei zentralen Events haben unterschiedliche Charakteristika und stellen unt
 
 **Was unwichtig ist:** Onboarding-UX für Laien. Das sind Entwickler:innen die die App als Beispiel für die Architektur verstehen, nicht als Produkt nutzen.
 
-### Pax Friedensfestival (ab ~25. Juli)
+### Pax Friedensfestival (ab 22. Juli)
 
 **Publikum:** Festival-Besucher:innen ohne technischen Hintergrund. Breiter Querschnitt, emotional geöffnet durch den Festival-Kontext, interessiert an Vernetzung und Gemeinschaft.
 
@@ -121,17 +120,20 @@ Folgendes verschieben wir bewusst auf nach Pax:
 
 Das ist für einen Pilot-Einsatz im Community-Kontext vertretbar. Die Kommunikation mit Teilnehmer:innen muss dementsprechend ehrlich sein: "Das ist ein laufendes Projekt, du bist unter den ersten Nutzer:innen."
 
-## Zeit-Budget
+## Zeit-Budget (realistisch)
 
-Mai und Juni = 8 Wochen. Drei Personen (Anton, Sebastian Stein, Tillmann) mit geteilter Aufmerksamkeit.
+Mai und Juni = 8 Wochen. Die Projektarbeit bleibt im Kern eine Solo-Angelegenheit von Anton, mit punktueller Unterstützung durch Tillmann und Sebastian Stein in deren Freizeit (beide haben Vollzeitjobs).
 
-Realistische Nettostunden:
+- **Anton (Hauptentwickler):** Protokoll, Spec, Implementation, Team-Koordination, Vereinsgründung, Outreach-Gespräche — alles parallel
+- **Sebastian Stein:** Feierabend-/Wochenend-Beiträge nach verfügbarer Kapazität. Schwerpunkt Frontend/UX, Real Life Stack
+- **Tillmann:** Feierabend-/Wochenend-Beiträge nach verfügbarer Kapazität. Schwerpunkt Infrastruktur, Mobile Apps, Release-Prozess
 
-- Anton: 50% Entwicklung + 50% Outreach/Strategie/Vereins-Gründung
-- Sebastian Stein: 80% Entwicklung
-- Tillmann: 60% Entwicklung + 40% Infrastruktur
+Konsequenzen daraus:
 
-Das ist ein knappes Budget. Deshalb: **klar priorisieren, keinen Scope Creep zulassen, einen Puffer einbauen**.
+- Der Scope muss an **Antons Solo-Kapazität** ausgerichtet sein, nicht an einem imaginären Team-Pensum
+- Aufgaben für Tillmann und Sebastian Stein werden **separat und klar abgegrenzt** formuliert, so dass sie in kurzen Zeitfenstern erledigt werden können
+- Keine Aufgabe wird blockiert wenn Tillmann oder Sebastian nicht verfügbar sind — Anton muss Fallbacks haben oder Features aus dem Scope nehmen
+- **Klar priorisieren, keinen Scope Creep zulassen, Puffer einbauen** — noch wichtiger unter diesen Bedingungen
 
 ## Mai — Stabilisieren und Features vervollständigen
 
@@ -244,12 +246,11 @@ Ergebnis: 30. Juni ist "Feature Freeze". Danach nur noch Bug-Fixes.
 
 Wenn Mitte Juni klar wird dass es zu knapp wird, folgende Entscheidungs-Reihenfolge:
 
-1. **Global Ecovillage Network Gathering streichen** — ohnehin optional, Anton nutzt die Tage als Pause
-2. **KANN-Features aus dem Pax-Scope entfernen** — keine Push-Notifications, keine erweiterten Features
-3. **SOLL-Features reduzieren** — Kalender und Marktplatz nur rudimentär
-4. **Talk bei Local First Conf entschärfen** — weniger Live-Demo, mehr konzeptueller Vortrag
-5. **Pax-Stand reduzieren** — kleinerer Umfang, vorsichtigeres Onboarding
-6. **Pax als "Soft Launch" kommunizieren** — weniger Erwartungen
+1. **KANN-Features aus dem Pax-Scope entfernen** — keine Push-Notifications, keine erweiterten Features
+2. **SOLL-Features reduzieren** — Kalender und Marktplatz nur rudimentär oder gar nicht
+3. **Talk bei Local First Conf entschärfen** — weniger Live-Demo, mehr konzeptueller Vortrag
+4. **Pax-Stand reduzieren** — kleinerer Umfang, vorsichtigeres Onboarding
+5. **Pax als "Soft Launch" kommunizieren** — weniger Erwartungen
 
 **Nicht verhandelbar:**
 
@@ -259,28 +260,39 @@ Wenn Mitte Juni klar wird dass es zu knapp wird, folgende Entscheidungs-Reihenfo
 
 Alle drei Events sind zugesagt. Die Frage bei Zeitknappheit ist nur *wie tief* wir jeweils gehen — nicht *ob*.
 
+Global Ecovillage Network Gathering wird für 2026 gestrichen — zu dicht zum Pax-Festival, keine sinnvolle Kapazität zusätzlich zum bereits Vollen.
+
 ## Rollenverteilung (Vorschlag, im Team-Termin zu bestätigen)
 
-**Anton:**
+Realistisch: **Anton als Hauptverantwortlicher für alle Schwerpunkte**. Tillmann und Sebastian tragen nach Kapazität in ihren jeweiligen Expertisegebieten bei.
+
+**Anton (Hauptverantwortung):**
 
 - Protokoll-Finalisierung und Spec-Entscheidungen
+- Implementation der Spec-Features in der App
+- Onboarding-Flow-Design und Umsetzung
+- Space-Vorbereitung für Pax
 - Team-Koordination
-- Outreach für Festival (Pax-Orga, DWeb Camp Anmeldung)
-- Vereins-Gründung parallel (nicht in Festival-Stunden)
+- Outreach (Festival-Orga, DWeb Camp Anmeldung, Local First Conf)
+- Vereins-Gründung parallel
+- Stand-Material für Pax
+- Ehrliche Kommunikation nach außen
 
-**Sebastian Stein:**
+**Sebastian Stein (punktuelle Unterstützung im Rahmen seiner Freizeit):**
 
-- Frontend/UX (Real Life Stack)
-- Onboarding-Flow
-- Map, Profile, Space-Module
-- Pax-Space Vorbereitung
+- Wenn Kapazität: Frontend/UX-Feedback, konkrete UI-Verbesserungen im Real Life Stack
+- Pilot-Testperson für Onboarding-Flow
+- Gesprächspartner für Architektur-Fragen (Data-Interface-Perspektive)
+- Schwerpunkt bleibt das was er ohnehin in Real Life Stack pflegt
 
-**Tillmann:**
+**Tillmann (punktuelle Unterstützung im Rahmen seiner Freizeit):**
 
-- Mobile App (Android, iOS Build)
-- Infrastruktur (Broker, Vault, Profile Service)
-- Stress-Tests
-- Release-Prozess
+- Wenn Kapazität: Mobile App Builds (Android/iOS)
+- Infrastruktur-Bereitstellung (Broker, Vault wenn nötig)
+- Release-Prozess für Festival-Version
+- Pilot-Testperson auf mobilen Geräten
+
+**Klar:** Keine verbindlichen Wochen-Kapazitäts-Zusagen von Sebastian oder Tillmann. Ihre Beiträge sind willkommen aber nicht eingeplant. Anton muss für alles einen Solo-Fallback haben.
 
 ## Risiken
 
@@ -304,8 +316,9 @@ Das Festival ist kein Endpunkt, sondern ein Meilenstein. Danach:
 
 ## Offene Fragen für den Team-Termin
 
-- Passt die Wochenstruktur für Sebastian Stein und Tillmann?
-- Welche MUSS-Features sind aus eurer Sicht noch unklar?
-- Braucht der Pax-Stand zusätzliche Personen außer uns drei?
-- Kann einer von euch Pax-Orga-seitig den Kontakt halten?
-- Kann Sebastian Galek in Mai/Juni auf eigener Spur laufen ohne uns zu blockieren?
+- Wer begleitet Anton zum Pax-Stand? (Ein Stand allein zu betreuen über mehrere Festival-Tage ist nicht machbar — zusätzliche Helfer:innen nötig)
+- Welche konkreten Kontingente können Sebastian und Tillmann realistisch in ihrer Freizeit beitragen? (Auch kleine Beiträge zählen — klar benennen, nicht überversprechen)
+- Gibt es aus Sicht von Sebastian Stein UX-Themen im Real Life Stack die er ohnehin angehen wollte und die für die Festivals hilfreich wären?
+- Kann Tillmann einen verlässlichen Release-Prozess für die Festival-Version sicherstellen (oder übernimmt Anton das)?
+- Welche MUSS-Features halten Tillmann und Sebastian für noch nicht stabil genug?
+- Gibt es Menschen im erweiterten Netzwerk die am Pax-Stand mithelfen würden?
