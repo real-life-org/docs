@@ -61,7 +61,7 @@ Die drei zentralen Events haben unterschiedliche Charakteristika und stellen unt
 - **Luca** — anzufragen
 - **Agnes und Jonathan Löwenherz** — anzufragen
 
-Für einen mehrtägigen Stand mit aktivem Onboarding ist eine Crew von 3–5 Personen realistisch (Schichtbetrieb, Ablösung für Pausen). Die Gespräche mit Luca, Agnes, Matthias und Jonathan sollten zeitnah geführt werden, damit alle rechtzeitig einen Überblick über die App und die Stand-Aufgaben bekommen.
+Für einen mehrtägigen Stand mit aktivem Onboarding ist eine Crew von 3–5 Personen realistisch (Schichtbetrieb, Ablösung für Pausen). Die Gespräche mit Luca, Agnes und Jonathan sollten zeitnah geführt werden, damit alle rechtzeitig einen Überblick über die App und die Stand-Aufgaben bekommen.
 
 **Was muss sein:**
 
@@ -328,5 +328,5 @@ Das Festival ist kein Endpunkt, sondern ein Meilenstein. Danach:
 - Gibt es aus Sicht von Sebastian Stein UX-Themen im Real Life Stack die er ohnehin angehen wollte und die für die Festivals hilfreich wären?
 - Kann Tillmann einen verlässlichen Release-Prozess für die Festival-Version sicherstellen (oder übernimmt Anton das)?
 - Welche MUSS-Features halten Tillmann und Sebastian für noch nicht stabil genug?
-- Wer fragt Luca, Agnes, Matthias und Jonathan wegen der Pax-Stand-Unterstützung an? Wann ist ein guter Zeitpunkt, damit sie sich einarbeiten können?
+- Wer fragt Luca, Agnes und Jonathan wegen der Pax-Stand-Unterstützung an? Wann ist ein guter Zeitpunkt, damit sie sich einarbeiten können?
 - Braucht die Pax-Stand-Crew vor dem Festival ein Briefing-Treffen (vor Ort oder online)?
