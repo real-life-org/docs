@@ -55,6 +55,14 @@ Die drei zentralen Events haben unterschiedliche Charakteristika und stellen unt
 
 **Unsere Rolle:** Stand im Vernetzungszelt, aktives Onboarding der Festivalteilnehmer:innen in die Infrastruktur. Dies ist der erste öffentliche Einsatz der App mit echten End-Usern.
 
+**Stand-Crew (potenziell):**
+
+- **Timo** — hat bereits zugesagt
+- **Luca** — anzufragen
+- **Agnes und Jonathan Löwenherz** — anzufragen
+
+Für einen mehrtägigen Stand mit aktivem Onboarding ist eine Crew von 3–5 Personen realistisch (Schichtbetrieb, Ablösung für Pausen). Die Gespräche mit Luca, Agnes, Matthias und Jonathan sollten zeitnah geführt werden, damit alle rechtzeitig einen Überblick über die App und die Stand-Aufgaben bekommen.
+
 **Was muss sein:**
 
 - Stabile App die ohne Begleitung genutzt werden kann
@@ -316,9 +324,9 @@ Das Festival ist kein Endpunkt, sondern ein Meilenstein. Danach:
 
 ## Offene Fragen für den Team-Termin
 
-- Wer begleitet Anton zum Pax-Stand? (Ein Stand allein zu betreuen über mehrere Festival-Tage ist nicht machbar — zusätzliche Helfer:innen nötig)
 - Welche konkreten Kontingente können Sebastian und Tillmann realistisch in ihrer Freizeit beitragen? (Auch kleine Beiträge zählen — klar benennen, nicht überversprechen)
 - Gibt es aus Sicht von Sebastian Stein UX-Themen im Real Life Stack die er ohnehin angehen wollte und die für die Festivals hilfreich wären?
 - Kann Tillmann einen verlässlichen Release-Prozess für die Festival-Version sicherstellen (oder übernimmt Anton das)?
 - Welche MUSS-Features halten Tillmann und Sebastian für noch nicht stabil genug?
-- Gibt es Menschen im erweiterten Netzwerk die am Pax-Stand mithelfen würden?
+- Wer fragt Luca, Agnes, Matthias und Jonathan wegen der Pax-Stand-Unterstützung an? Wann ist ein guter Zeitpunkt, damit sie sich einarbeiten können?
+- Braucht die Pax-Stand-Crew vor dem Festival ein Briefing-Treffen (vor Ort oder online)?
