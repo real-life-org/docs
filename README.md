@@ -8,7 +8,7 @@ Funktioniert frei, dezentral und ohne feste Rollen. Jeder bringt ein, was ihm li
 
 - [Real Life Network](netzwerk.md) — Was wir tun und warum
 - [Handbuch](handbuch.md) — Praktischer Leitfaden zum Mitmachen
-- [Netzwerk-Protokoll](netzwerk-protokoll.md) — Spezifikation für dezentrale Gemeinschaftsbildung, Commons und gemeinsames Handeln
+- [Real Life Network Protocol](https://github.com/real-life-org/real-life-network-protocol) — Spezifikation, Rollout-Inventur und Arbeitsrepo für dezentrale Gemeinschaftsbildung
 - [Vernetzungskonzept](vernetzungskonzept.md) — Wie bestehende Initiativen andocken
 
 ## Organisation
