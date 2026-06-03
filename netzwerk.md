@@ -86,7 +86,7 @@ Jede Stufe braucht die vorherige. Nichts davon lässt sich erzwingen — aber al
 
 ## Unsere digitalen Werkzeuge
 
-Wir entwickeln digitale Werkzeuge, die dem Netzwerk dienen. Alle sind Open Source, dezentral und gehören niemandem.
+Die Real Life Organisation entwickelt digitale Werkzeuge, die dem Netzwerk dienen. Alle sind Open Source, dezentral und gehören niemandem.
 
 **Web of Trust** — Persönliche Begegnungen werden zu verifizierbaren Vertrauensbeziehungen. Ein dezentrales Vertrauensnetzwerk ohne zentrale Datenbank.
 

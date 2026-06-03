@@ -1,5 +1,7 @@
 # Satzung — Real Life Org
 
+> **Hinweis (2026-06-02):** Dieses Dokument ist **veraltet / zurückgestellt**. Es war für den Fall gedacht, dass die Real Life Organisation formell als nicht eingetragener Verein aufgestellt wird. Aktuell zeichnet sich ab, dass die Trägerstruktur eher als GbR und langfristig als gemeinnützige Foundation realisiert wird (siehe [RFC-0007](https://github.com/real-life-org/rfcs/blob/main/rfcs/0007-organisation-und-netzwerk.md)). Bis eine neue Form steht, dient dieses Dokument nur als Arbeitsgrundlage und ist nicht in Kraft.
+
 Nicht eingetragener Verein
 
 ## § 1 Name und Sitz

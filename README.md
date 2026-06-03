@@ -1,6 +1,8 @@
 # Real Life — Dokumente
 
-Die **Organisation** baut die Werkzeuge. Das **Netzwerk** nutzt sie. Die Organisation dient dem Netzwerk, kontrolliert es aber nicht.
+Die **Real Life Organisation** ist Steward des **Real Life Netzwerks** — sie entwickelt und pflegt die Werkzeuge, auf denen das Netzwerk wächst, und trägt es, bis es sich selbst tragen kann.
+
+Die Organisation dient dem Netzwerk, kontrolliert es aber nicht. Die Software gehört allen. Das Netzwerk gehört niemandem.
 
 ## Netzwerk
 
