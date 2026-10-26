@@ -18,3 +18,7 @@ Funktioniert frei, dezentral und ohne feste Rollen. Jeder bringt ein, was ihm li
 Arbeitet mit klaren Rollen und Zuständigkeiten. Entscheidungen per Konsent.
 
 - [RFCs](https://github.com/real-life-org/rfcs) — Entscheidungen und Vorschläge
+
+## Lizenz
+
+[Creative Commons Attribution 4.0](LICENSE) (CC BY 4.0)
